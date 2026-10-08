@@ -1,5 +1,7 @@
 # Análisis de Rentabilidad Supertienda
 Análisis de rentabilidad en Power BI sobre una cadena de ventas en Latinoamérica y el Caribe, presentado como dos data storytellings: Gestión de Precios/Ingresos y Gestión de Producto.
+<img width="2000" height="1146" alt="Dashboard 1_Precios e Ingresos_Supertienda" src="https://github.com/user-attachments/assets/3ff71973-a23e-49b7-bbb6-a536885d8344" />
+<img width="2000" height="1146" alt="Dashboard 2_Gestión de Producto_Supertienda" src="https://github.com/user-attachments/assets/2f9fd14c-1cdf-4f0b-bfe4-83fc0626075e" />
 
 ## Resumen ejecutivo
 
